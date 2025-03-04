@@ -10,7 +10,7 @@ Hide/Show table of contents
 
 | No. | Questions                                                                                                                                                                                                                        |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-|     | **Core React**                                                                                                                                                                                                                   |
+|     | **Core React Q&A**                                                                                                                                                                                                                   |
 | 1   | [What is React?](#what-is-react)                                                                                                                                                                                                 |
 | 2   | [What are the key features of React?](#What-are-the-key-features-of-React)                                                                                                                                                       |
 | 3   | [What is JSX?](#what-is-jsx)      
@@ -50,3 +50,18 @@ Hide/Show table of contents
 
 </details>
 
+### Table of Contents
+
+<details open>
+<summary>
+Hide/Show table of contents
+</summary>
+
+  
+| No. | Questions                                                                                                                                                                                                                        |
+| --- | ---------------------------------------------------------------------------- |
+|     | **Advance React**                                                                                                                                                                                                                   |
+| 1   | [Why we need to be careful when spreading props on DOM elements?](#what-is-spreading-props-on-DOM-elements)                                                                                                                                                                                                 |
+| 2   | [What ?](#What) 
+
+</details>
