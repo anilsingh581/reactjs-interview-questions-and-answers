@@ -44,8 +44,8 @@ Hide/Show table of contents
 | 31   | [What is React Fiber?](#What-is-React-Fiber?)      
    | 32   | [How React Fiber Improves React?](#How-React-Fiber-Improves-React?)                                                                                                                                                                                                 |
    | 33   | [What are React Fragments and why are they used?](#What-are-React-Fragments-and-why-are-they-used?)                                                                                                                                                                                                 |
-| 34   | [What are the key features of React?](#What-are-the-key-features-of-React)                                                                                                                                                       |
-| 35   | [What is JSX?](#what-is-jsx)      
+| 34   | [What are stateless & stateful components?](#What-are-stateless-&-stateful-components?)                                                                                                                                                       |
+| 35   | [What are the recommended ways for static type checking?](#What-are-the-recommended-ways-for-static-type-checking?)      
    
 
 </details>
