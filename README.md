@@ -14,13 +14,13 @@ Hide/Show table of contents
 | 1   | [What is React?](#what-is-react)                                                                                                                                                                                                 |
 | 2   | [What are the key features of React?](#What-are-the-key-features-of-React)                                                                                                                                                       |
 | 3   | [What is JSX?](#what-is-jsx)      
-   | 4   | [What is React?](#what-is-react)                                                                                                                                                                                                 |
-| 5   | [What are the key features of React?](#What-are-the-key-features-of-React)                                                                                                                                                       |
-| 6   | [What is JSX?](#what-is-jsx)      
-| 7   | [What is React?](#what-is-react)                                                                                                                                                                                                 |
-| 8   | [What are the key features of React?](#What-are-the-key-features-of-React)                                                                                                                                                       |
-| 9   | [What is JSX?](#what-is-jsx)      
-   | 10   | [What is React?](#what-is-react)                                                                                                                                                                                                 |
+   | 4   | [What is the Virtual DOM??](#What-is-the-Virtual-DOM?)                                                                                                                                                                                                 |
+| 5   | [Why Use the Virtual DOM?](#Why-Use-the-Virtual-DOM?)                                                                                                                                                       |
+| 6   | [How Does the Virtual DOM Work?](#How-Does-the-Virtual-DOM-Work?)      
+| 7   | [What is a React component?](#What-is-a-React-component?)                                                                                                                                                                                                 |
+| 8   | [What are Props in React?](#What-are-Props-in-React?)                                                                                                                                                       |
+| 9   | [Why Use Props?](#Why-Use-Props?)      
+   | 10   | [What is State in React?](#What-is-State-in-React?)                                                                                                                                                                                                 |
    | 11   | [What is React?](#what-is-react)                                                                                                                                                                                                 |
 | 12   | [What are the key features of React?](#What-are-the-key-features-of-React)                                                                                                                                                       |
 | 13   | [What is JSX?](#what-is-jsx)      
