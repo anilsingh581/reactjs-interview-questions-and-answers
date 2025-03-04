@@ -21,13 +21,13 @@ Hide/Show table of contents
 | 8   | [What are Props in React?](#What-are-Props-in-React?)                                                                                                                                                       |
 | 9   | [Why Use Props?](#Why-Use-Props?)      
    | 10   | [What is State in React?](#What-is-State-in-React?)                                                                                                                                                                                                 |
-   | 11   | [What is React?](#what-is-react)                                                                                                                                                                                                 |
-| 12   | [What are the key features of React?](#What-are-the-key-features-of-React)                                                                                                                                                       |
-| 13   | [What is JSX?](#what-is-jsx)      
-   | 14   | [What is React?](#what-is-react)                                                                                                                                                                                                 |
-| 15   | [What are the key features of React?](#What-are-the-key-features-of-React)                                                                                                                                                       |
-| 16   | [What is JSX?](#what-is-jsx)      
-| 17   | [What is React?](#what-is-react)                                                                                                                                                                                                 |
+   | 11   | [What are React Hooks?](#What-are-React-Hooks?)                                                                                                                                                                                                 |
+| 12   | [Why Were Hooks Introduced?](#Why-Were-Hooks-Introduced?)                                                                                                                                                       |
+| 13   | [What is the difference between controlled and uncontrolled components??](#What-is-the-difference-between-controlled-and-uncontrolled-components?)      
+   | 14   | [What is Context API?](#What-is-Context-API?)                                                                                                                                                                                                 |
+| 15   | [Why Use Context API?](#Why-Use-Context-API?)                                                                                                                                                       |
+| 16   | [What is React Router?](#What-is-React-Router?)      
+| 17   | [Why Use React Router?](#Why-Use-React-Router?)                                                                                                                                                                                                 |
 | 18   | [What are the key features of React?](#What-are-the-key-features-of-React)                                                                                                                                                       |
 | 19   | [What is JSX?](#what-is-jsx)      
    | 20   | [What is React?](#what-is-react)                                                                                                                                                                                                 |
